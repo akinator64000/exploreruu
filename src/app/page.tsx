@@ -190,7 +190,7 @@ export default function Explorer() {
                 <TableHead>Time</TableHead>
                 <TableHead>Chain</TableHead>
                 <TableHead>Job ID</TableHead>
-                <TableHead>Repo</TableHead>
+                <TableHead>Agent</TableHead>
                 <TableHead>Status</TableHead>
                 <TableHead>Metadata</TableHead>
               </TableRow>
